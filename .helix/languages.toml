@@ -1,0 +1,6 @@
+[[language]]
+name = "rust"
+
+[language-server.rust-analyzer.config]
+linkedProjects = ["Cargo.toml", "my_app/Cargo.toml"]
+check.allTargets = false

@@ -1,0 +1,7 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "Cargo.toml",
+    "my_app/Cargo.toml"
+  ],
+  "rust-analyzer.check.allTargets": false
+}

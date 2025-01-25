@@ -1,0 +1,5 @@
+[workspace]
+members = [ "my_lib" ]
+exclude = [ "my_app" ]
+
+resolver = "3"
